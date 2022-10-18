@@ -1,9 +1,1 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="64" height="64" rx="16" fill="black"/>
-<path d="M32 44L21 33" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M43 33L32 44" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32 44L32 20" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32 44L21 33" stroke="black" stroke-width="3.42857" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M43 33L32 44" stroke="black" stroke-width="3.42857" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M32 44L32 20" stroke="black" stroke-width="3.42857" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" viewBox="0 0 64 64"><rect width="64" height="64" fill="#000" rx="16"/><path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M32 44L21 33"/><path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M43 33L32 44"/><path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M32 44L32 20"/><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.429" d="M32 44L21 33"/><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.429" d="M43 33L32 44"/><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.429" d="M32 44L32 20"/></svg>
